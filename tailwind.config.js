@@ -829,7 +829,7 @@ module.exports = {
     space: ['responsive'],
     stroke: ['responsive'],
     strokeWidth: ['responsive'],
-    tableLayout: ['responsive'],
+    tableLayout: ['responsive', 'hover', 'focus'],
     textAlign: ['responsive'],
     textColor: ['responsive', 'dark', 'group-hover', 'focus-within', 'hover', 'focus'],
     textDecoration: ['responsive', 'group-hover', 'focus-within', 'hover', 'focus'],
