@@ -63,7 +63,7 @@ function App() {
         <HiSearch class='m-1 my-auto' />
         <input
           class='bg-gray-100 h-10 px-5 pr-10 rounded-full text-sm focus:outline-none my-5 mr-5'
-          placeholder='Search'
+          placeholder='Search by First Name'
           value={searchArray}
           onChange={search}
         />
